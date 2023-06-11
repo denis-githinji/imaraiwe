@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @imaraiwe
+- 👋 Hi, I’m @denis.githinji
 - 👀 I’m interested in front end development and web design
-- 🌱 I’m currently learning HTML, CSS, Javascript
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on Web projects
 - 📫 You can reach me via email denis.m.githinji@gmail.com
 
